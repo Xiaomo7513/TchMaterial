@@ -4,6 +4,8 @@
 
 > 原教材来自[国家中小学智慧教育平台](https://basic.smartedu.cn/tchMaterial)
 
+> 前往[tchmaterial.json](tchmaterial.json)查看原文件链接
+
 ## 目录
 - 语文（统编版）
     - [必修 上册](语文/必修%20上册.pdf)
